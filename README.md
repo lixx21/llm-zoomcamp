@@ -64,52 +64,12 @@ Implement a search engine
 * Guardrails
 
 
-### [Tips and Tricks for advanced RAG systems](06-best-practices/)
-
-* Best practices
-
-### LLM Zoomcamp 2024 Competition
-
-In the competition, you need to use LLMs to solve high school mathematics problems. 
-Your task is to develop models that can accurately solve these problems and submit your predictions.
-
-For more details, visit the [competition page](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/overview).
-
-
-### [Hands-on project](project.md)
-
-<p align="center">
-  <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
-
 ## Instructors
 
 - [Alexey Grigorev](https://linkedin.com/in/agrigorev/)
 - [Magdalena Kuhn](https://www.linkedin.com/in/magdalenakuhn/)
 
 
-
-## Supporters and partners
-
-Thanks to the course sponsors for making it possible to run this course
-
-<p align="center">
-  <a href="https://mage.ai/">
-    <img height="120" src="https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/mage.svg">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://dlthub.com/">
-    <img height="80" src="https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/dlthub.png">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://saturncloud.io/">
-    <img height="120" src="images/saturn-cloud.png">
-  </a>
-</p>
 
 
 Do you want to support our course and our community? Please reach out to [alexey@datatalks.club](alexey@datatalks.club)
